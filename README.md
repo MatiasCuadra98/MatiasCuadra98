@@ -1,16 +1,22 @@
-### Hi there 👋
+👋¡Hola!, soy Matías, Full-Stack Web Developer con una pasión por el desarrollo web y la programación.
 
-<!--
-**MatiasCuadra98/MatiasCuadra98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi experiencia como Personal Trainer e Instructor de Artes Marciales me han dotado de habilidades blandas de suma importancia en la industria IT tales como trabajo en equipo, disciplina, resiliencia, adaptabilidad, liderazgo y comunicación efectiva.
 
-Here are some ideas to get you started:
+Mi camino hacia la programación me hizo dar cuenta de que había encontrado una auténtica pasión que me impulsa a seguir avanzando y perfeccionándome en mi trayectoria profesional. 💻💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He adquirido habilidades técnicas en desarrollo web como:
+✅Node
+✅Express
+✅TypeScript
+✅PostreSQL
+✅Sequelize
+✅React
+✅Redux
+
+Pero lo que realmente me destaca son mis habilidades blandas: soy proactivo, organizado y trabajo bien bajo presión. Me encanta aprender y colaborar en equipo con el fin de cumplir el objetivo.
+
+Si buscas un desarrollador con habilidades técnicas sólidas, orientado a resultados y comprometido con el trabajo en equipo, soy la elección ideal para tu equipo. 💥🚀
+
+Ponte en contacto conmigo! 🤜🏼 🤛🏼 📩
+Correo electrónico: matiasthomascuadra@gmail.com
+Linkedin: https://www.linkedin.com/in/matias-cuadra-735429278/
